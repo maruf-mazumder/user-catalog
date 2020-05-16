@@ -1,0 +1,9 @@
+.Mega-container{
+    display: flex;
+}
+.profile-container{
+    width:71%;
+    margin-left: 21px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
