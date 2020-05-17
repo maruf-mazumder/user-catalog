@@ -1,0 +1,25 @@
+.packet-skeleton{
+    display: flex;
+    border-bottom: 1px solid  lightgray;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    /* color:blueviolet; */
+}
+.packet-skeleton h2{
+            color: blueviolet;
+}
+.pic img{
+    width: 281px;
+    height:281px;
+    margin-right:71px;
+    margin-left:15px;
+    margin-top: 5px;
+}
+.main-button{
+    background-color:goldenrod;
+    width:151px;
+    height:31px;
+    border:1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
