@@ -249,6 +249,42 @@ var users=[
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     }
+  },
+  {
+    "id":"11",
+    "name":"Kane",
+    "phone":"543723",
+    "salary":16555,
+    "photo":"https://gmsrp.cachefly.net/images/18/05/27/f6c7f7ddd278891afdf108d6b46bc659/960.jpg",
+  },
+  {
+    "id":"12",
+    "name":"batistuta",
+    "phone":88776644,
+    "salary":16555,
+    "photo":"https://i.pinimg.com/originals/72/95/ef/7295ef72035da205c943d410a1731f87.jpg",
+  },
+  {
+    "id":13,
+    "name":"Candice Swanpole",
+    "phone":3223322,
+    "salary":16555,
+    "photo":"https://i.ytimg.com/vi/bmsTXSHhMdE/maxresdefault.jpg",
+  },
+  {
+    "id":14,
+    "name":"Shakira",
+    "phone":121212,
+    "salary":16555,
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpRfeR4eT0FBN0Xy2g9C6dVKV3BxbcFMyzT_M95lwqaxizfbdU&usqp=CAU",
+  },
+  {
+    "id":15,
+    "name":"Penaldo",
+    "phone":111111,
+    "salary":11111,
+    "photo":"https://i.ytimg.com/vi/XXJkLbj3W40/maxresdefault.jpg",
+
   }
 ]
 export default users;

@@ -5,7 +5,7 @@ import ProfileInfo from '../ProfileInfo/ProfileInfo';
 import Cart from '../Cart/Cart';
 
 const Catalog = () => {
-    const first5 = fakedata.slice(0,10);
+    const first5 = fakedata;
     const [persons,setPerson] = useState(first5);
 
     const[cart,setCart]=useState([]);
@@ -28,7 +28,7 @@ const Catalog = () => {
                         } 
             </div>
             <div className="cart-container">
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} first5={first5}></Cart>
             </div>
             
         </div>

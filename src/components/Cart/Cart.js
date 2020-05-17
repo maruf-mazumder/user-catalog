@@ -12,9 +12,9 @@ const Cart = (props) => {
     }
     return (
         <div>
-            <h2>Listed : {cart.length}</h2>
-            <h3>Total: {total}</h3>
-            <p></p>
+            <h1>No of Icons:{props.first5.length}</h1>
+            <h2>Listed Icons: {cart.length}</h2>
+            <h3>Cumulative Salary : ${total}</h3>
         </div>
     );
 };
